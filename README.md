@@ -1,9 +1,8 @@
 основа: https://documen.tician.de/pyopencl/
 
-
+еще	инфо про OpenCL https://habr.com/post/124925/
 
 Windows:
-
 pip install pyopencl
 	-> ошибка, нет Mako
 pip install Mako
